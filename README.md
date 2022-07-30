@@ -1,2 +1,2 @@
 # NoDelete
-Open Sourced utils and stuff
+Open source utils and stuff that NoDelete uses.
