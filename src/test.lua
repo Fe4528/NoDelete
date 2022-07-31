@@ -1,3 +1,3 @@
-local cheater = "Interval#3292"
+local usr = "Interval#3292"
 
-print(cheater.." is a fucking dumbass")
+print(usr.." ain't helping me on NoDelete")
